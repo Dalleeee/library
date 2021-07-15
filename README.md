@@ -1,0 +1,2 @@
+07/14/21
+Learned about objects, object constructors and prototypes. Effectively used this knowledge as well as DOM manipulation to build a "library" which is capable of adding and deleting new books and toggling read status. HTML/CSS need work and are not at presentation level.
